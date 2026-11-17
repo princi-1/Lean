@@ -11,3 +11,8 @@ n + n
 #eval double 5
 theorem double_three : double 3 = 6 := by
  rfl
+#eval double 10PS C:\Users\Dell\Desktop\Lean> git status -sb
+## main...origin/main
+ M experiment.lean
+?? Lean-repo/
+?? Lean/
